@@ -2,7 +2,7 @@
 
 ### Članovi tima:
 - Niko Miljanić  
-- (ovdje upiši ostale članove tima, ako ih ima)
+
 
 ### Fakultet informatike u Puli  
 [https://fipu.unipu.hr/](https://fipu.unipu.hr/)
@@ -22,10 +22,11 @@ Omogućuje korisnicima pregled statusa letova, obavijesti o kašnjenjima i promj
 ---
 
 ### Link na javni prototip
-(ovdje zalijepi link iz Figma prototipa ili Netlifya)
+FIGMA: https://www.figma.com/proto/YGWXcVOnJMAzBJAoj4q3db/Untitled?node-id=27-152&p=f&t=XjgMf25RrsqNrtZL-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A1997&starting-point-node-id=1%3A1998
+NETLIFY: (https://altivolo.netlify.app/
 
 ---
 
 ### Zaduženja po članu tima
-- **Niko Miljanić** – (upiši što si radio: npr. frontend, Vue komponente, dokumentacija...)  
-- Ostali članovi – (upišite vlastite zadatke)
+- **Niko Miljanić** – sve
+  
